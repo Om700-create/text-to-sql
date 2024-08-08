@@ -1,0 +1,7 @@
+setup.py
+src/__init__.py
+textsql.egg-info/PKG-INFO
+textsql.egg-info/SOURCES.txt
+textsql.egg-info/dependency_links.txt
+textsql.egg-info/requires.txt
+textsql.egg-info/top_level.txt
